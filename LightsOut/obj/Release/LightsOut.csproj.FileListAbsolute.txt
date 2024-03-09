@@ -1,0 +1,12 @@
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Release\LightsOut.csproj.AssemblyReference.cache
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\bin\Release\LightsOut.exe.config
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\bin\Release\LightsOut.exe
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\bin\Release\LightsOut.pdb
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Release\LightsOut.GameForm.resources
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Release\LightsOut.MasterForm.resources
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Release\LightsOut.Properties.Resources.resources
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Release\LightsOut.VictoryForm.resources
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Release\LightsOut.csproj.GenerateResource.cache
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Release\LightsOut.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Release\LightsOut.exe
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Release\LightsOut.pdb

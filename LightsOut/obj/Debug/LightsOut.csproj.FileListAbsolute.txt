@@ -1,0 +1,12 @@
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\bin\Debug\LightsOut.exe.config
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\bin\Debug\LightsOut.exe
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\bin\Debug\LightsOut.pdb
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Debug\LightsOut.csproj.AssemblyReference.cache
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Debug\LightsOut.Properties.Resources.resources
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Debug\LightsOut.csproj.GenerateResource.cache
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Debug\LightsOut.csproj.CoreCompileInputs.cache
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Debug\LightsOut.exe
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Debug\LightsOut.pdb
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Debug\LightsOut.GameForm.resources
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Debug\LightsOut.VictoryForm.resources
+C:\Users\Andrew\Documents\C#\LightsOut\LightsOut\obj\Debug\LightsOut.MasterForm.resources
